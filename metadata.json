@@ -1,0 +1,6 @@
+{
+  "name": "Convertisseur PDF en PKF & Formats Dérivés",
+  "description": "Convertissez vos fichiers PDF en format PKF (crête audio Adobe Audition ou archive paquet sécurisé), inspectez les fichiers .pkf et exportez vers EPUB, TXT et Audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
